@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/Cap_2_Formularios/ex_29/ex_29.css">
+</head>
+<body onload="comenzarReloj()">
+    <label>Seleccione los segundos para activar el sonido
+        <input type="number" name="tiempo" id="tiempoElegido">
+    </label>
+    <button onclick="comenzarTiempo()">activar</button>
+    <h1 id="textoAlarma">00:00:00</h1>
+    
+    <audio src="/Cap_2_Formularios/ex_29/alarma.mp3" id="audioAlarma" type="audio/mpeg" controls>
+        Sonido no habilitado
+    </audio>
+
+    <script src="ex_29.js"></script>
+</body>
+</html>

@@ -1,0 +1,164 @@
+{
+    "biblioteca": [
+        {
+            "titulo": "Construcción y diseño de páginas web con html, css y javascript",
+            "editorial": "Ra-Ma",
+            "edicion": "2023",
+            "isbn": "9789587925852",
+            "autores": {
+            "autor principal": "Pablo E. Fernández Casado",
+            "autor secundario": "",
+            "autor terciario": ""
+            },
+            "codigo sena": ["987654345678"],
+            "descripcion": "Libro para el aprendizaje básico y fundamentos de Páginas Web"
+        },
+
+        {
+            "titulo": "Educacion y desarrollo sustentable",
+            "editorial": "TRILLAS",
+            "edicion": "2001:simulado",
+            "isbn": "00033034985:simulado",
+            "autores": {
+            "autor principal": "Edgar Ernesto Paxtian Ortiz",
+            "autor secundario": "Karen Selene Garcia Cifuentes",
+            "autor terciario": ""
+            },
+            "codigo sena": ["769544004098"],
+            "descripcion": "Vive la ruta del conocimiento y adquiere competencias"
+        }
+        ,
+
+        {
+            "titulo": "Teoria de conjuntos y temas afines",
+            "editorial": "McGRAW-HILL",
+            "edicion": "1993:simulado",
+            "isbn": "0008934932379:simulado",
+            "autores": {
+            "autor principal": "SEYMOUR LIPSCHUTZ",
+            "autor secundario": "Juan David Carcaz:simulado",
+            "autor terciario": ""
+            },
+            "codigo sena": ["769544000974"],
+            "descripcion": "Este libro trata acerca de todas las teorias que existen en la actualidad y como implementarlas en nuestro dia a dia:simulado"
+        }
+        ,
+
+        {
+            "titulo": "Dibujo y comunicacion grafica",
+            "editorial": "PEARSON Prentice Hall",
+            "edicion": "2006:simulado",
+            "isbn": "00033002675:simulado",
+            "autores": {
+            "autor principal": "FREDERICK E. GIESECKE",
+            "autor secundario": "ALVA MITCHELL",
+            "autor terciario": "HENRY CECIL SPENCER"
+            },
+            "codigo sena": ["769544001833"],
+            "descripcion": "Este libro trata acerca de arte y formas de comunicacion entre los seres:simulado"
+        }
+        ,
+
+        {
+            "titulo": "Microsoft SQL Azure",
+            "editorial": "TUPADRINO:simulado",
+            "edicion": "2005:simulado",
+            "isbn": "00033035871:simulado",
+            "autores": {
+            "autor principal": "Julian Ernesto Carbalo",
+            "autor secundario": "",
+            "autor terciario": ""
+            },
+            "codigo sena": ["769544000193"],
+            "descripcion": "Este libro trata acerca de todas las funciones que podemos encontrar dentro del paquete de Microsoft y SQL:simulado"
+        }
+        ,
+
+        {
+            "titulo": "MACROECONOMIA",
+            "editorial": "McGrawHill",
+            "edicion": "2015:simulado",
+            "isbn": "00034781206:simulado",
+            "autores": {
+            "autor principal": "PAULA. SAMUELSON",
+            "autor secundario": "WILIAM D. NORDHAUS",
+            "autor terciario": ""
+            },
+            "codigo sena": ["769544002114"],
+            "descripcion": "Este libro trata acerca de la indutria y comercio del pais de China:simulado"
+        },
+
+        {
+            "titulo": "Tecnología de refrigeración y aire acondicionado",
+            "editorial": "Cengage Learning",
+            "edicion": "2010",
+            "isbn": "",
+            "autores": {
+            "autor principal": "William C. Whitman",
+            "autor secundario": "William M. Johnson",
+            "autor terciario": "Eugene Silberstein"
+        },
+            "codigo sena": ["769544001791"],
+            "descripcion": "Manual de laboratorio"
+        },
+
+        {
+            "titulo": "Prácticas avanzadas de electrónica",
+            "coedicion": {
+            "editorial 1": "Alfaomega",
+            "editorial 2": "editorial Prial"
+        },
+            "edicion": "1989",
+            "isbn": "9686223053, 9789686223057",
+            "autores": {
+            "autor principal": "Dr. H. Ernst",
+            "autor secundario": "DR. W. Heink",
+            "autor terciario": "Dr. Ing. W. Jehmlich",
+            "autor cuaternario": "Dr. W. Praxmarer"
+        },
+            "codigo sena": ["769544002364"],
+            "descripcion": "Libro para obterner conocimientos avanzados en electrónica"
+        },
+
+        {
+            "titulo": "ANÁLISIS DE ESTRUCTURAS",
+            "editorial": "Alfaomega",
+            "edicion": "2012",
+            "isbn": "9788426717092",
+            "autores": {
+            "autor principal": "Jack C.McCormac",
+            "autor secundario": "",
+            "autor terciario": "",
+            "autor cuaternario": ""
+        },
+            "codigo sena": ["769544000929"],
+            "descripcion": "Métodos clásicos y matricial de análisis de estructuras"
+        },
+        {
+            "titulo": "Ingeniería de Control Moderna",
+            "editorial": "Pearson Prentice Hall",
+            "edicion": "2003",
+            "isbn": "8420536784, 9788420536781",
+            "autores": {
+            "autor principal": "Katsuhiko Ogata",
+            "autor secundario": "",
+            "autor terciario": "",
+            "autor cuaternario": ""
+        },
+            "codigo sena": ["769544000773"],
+            "descripcion": "Introducción a los sistemas de control"
+        },
+        {
+            "titulo": "El siglo de la biotecnologia",
+            "edicion": "1989",
+            "isbn": "9788426712066, 9788426712066",
+            "autores": {
+            "autor principal": "Jeremy Rifkin",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544000626"],
+            "descripcion": "Libro explicativo del siglo de la biotecnologia"
+        }
+    ]
+}

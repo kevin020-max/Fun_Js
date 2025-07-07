@@ -1,0 +1,13 @@
+{
+    "persona": {
+        "nombre":"kevin",
+        "edad":17,
+        "aprendiz":"true",
+        "residencia": {
+        "direccion":"cabuyal calle 3b # 7-50",
+        "ciudad":"candelaria",
+        "departamento":"valle del cauca"
+        },
+        "telefono":"3122146534"
+    }
+}

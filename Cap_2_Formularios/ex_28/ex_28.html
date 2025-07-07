@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alarma con sonido</title>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <link rel="stylesheet" href="ex_28.css">
+</head>
+<body>
+    <label>selecciona el tiempo de la alarma
+        <input type="number" name="tiempo" id="tiempoCronometro">
+    </label>
+
+    <button onclick="cuentaRegresiva()">Iniciar</button><br>
+
+    <h4 id="txtTiempo">¡Tiempo finalizado!</h4>
+    <h4>Tiempo Restante: <span id="contador">0</span> segundos</h4>
+
+<audio src="/Cap_2_Formularios/ex_28/alarma.mp3" id="audioAlarma" type="audio/mpeg" controls>Sonido no habilitado</audio>
+
+    <script src="ex_28.js"></script>
+</body>
+</html>

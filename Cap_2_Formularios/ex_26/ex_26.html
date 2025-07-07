@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+</head>
+<body>
+    <h2>Funciones open y confirmar</h2>
+    <form>
+        <label>
+        Abrir en una pestaña del navegador
+            <input type="button" value="abrir" onclick="pesta()"> <br> 
+        </label>
+        
+        <label>
+            Abrir en otra ventana del navegador
+            <input type="button" value="abrir" onclick="ventana()"> <br>
+        </label>
+
+        <label>confirmar
+            <input type="button" value="salir" onclick="confirmar()"> <br>
+        </label>  
+    </form>
+
+    <h2>Redireccionamiento y locacion</h2>
+    <label>
+        Abrir una oagina especifica
+        <input type="button" value="abrir" onclick="redireccionar()">
+    </label>
+    <!-- conteo y disponibilidad de caracteres-->
+    <label>
+        <textarea name="texto"  id="texto" rows="10" cols="40" maxlength="20" placeholder="Ingrese la URL"></textarea>
+    </label>
+
+    <p>caracteres disponibles: <span id="cantidad">20</span></p>
+
+    <Script src="ex_26.js"></Script>
+    
+</body>
+</html>

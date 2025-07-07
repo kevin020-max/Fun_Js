@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>seleccion de colores primarios</h2>
+        <form>
+            <p>
+                <label>Elija un color:
+                    <select name="selector" id="select" onchange="cambiarcolor()"">
+                        <option value="">seleccione un color</option>
+                        <option value="selecion Amarillo">Amarillo</option>
+                        <option value="selecion Azul">Azul</option>
+                        <option value="selecion Rojo">Rojo</option>
+                    </select>
+                </label>
+            </p>
+
+            <p>
+                <label>indice seleccionado
+                    <input type="text" name="indice" id="text1">
+                </label>
+            </p>
+            <p>
+                <label>color seleccionado
+                    <input type="text" name="color" id="text2">
+                </label>
+            </p>
+            <p>
+                <label>indicacion
+                    <input type="text" name="indicacion" id="text3">
+                </label>
+            </p>
+        </form>
+    <script src="ex_19.js"></script>
+</body>
+</html>
